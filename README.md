@@ -10,4 +10,4 @@ For now they have no data stored in them.
 
 Documentation of the formats and partitions is in the included ODS workbook.
 
-
+Note: total for extracted images + zips is over 237GB
