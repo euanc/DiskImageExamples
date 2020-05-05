@@ -6,6 +6,8 @@ https://web.archive.org/web/20190605014842/https://askubuntu.com/questions/66729
 
 to create the partition table and to format them. 
 
+Also: https://gist.github.com/shamil/62935d9b456a6f9877b5
+
 For now they have no data stored in them. 
 
 Documentation of the formats and partitions is in the included ODS workbook.
